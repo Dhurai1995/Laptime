@@ -3,7 +3,7 @@ Started as a pilot project for the formula student team. The software has most o
 
 Most of the simulation process is also fully automated, and the user has the option to choose which test cases to run. There is also a post-processing window to process the final results.
 
-![Capture](https://user-images.githubusercontent.com/42997886/95651073-d019b180-0ae7-11eb-8a11-18e6fb6d80e7.JPG 500x400)
+![](images/Capture.JPG)
 
 ## Functionalities
 1. It has Two-track Model
